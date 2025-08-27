@@ -1,0 +1,32 @@
+.trae
+~*
+*.code-workspace
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# Virtualenv
+venv/
+ENV/
+env/
+*.env
+myenv/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+tesstrain/
+temp_images/
+test/
+share/
