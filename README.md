@@ -49,7 +49,7 @@ https://blog.csdn.net/weixin_44251179/article/details/129700793
 1. 在 VsCode 中打开新的 Terminal
 2. 安装 Python 虚拟环境, 并激活
 ```
-python3.9 -m venv myenv
+py -3.9 -m venv myenv
 myenv\Scripts\activate
 ```
 3. 启动后端服务
